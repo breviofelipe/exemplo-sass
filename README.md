@@ -1,1 +1,1 @@
-### Exemplo sass
+### Exemplo sass SPA
